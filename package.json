@@ -1,0 +1,15 @@
+{
+  "name": "react-simple",
+  "version": "1.0.0",
+  "description": "A React simple boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ncltrdorsor.visualstudio.com/Development/_git/react-simple"
+  },
+  "author": "Nicolás Serrano",
+  "license": "ISC"
+}
